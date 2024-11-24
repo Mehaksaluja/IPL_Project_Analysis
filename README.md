@@ -32,36 +32,6 @@ The IPL dataset includes detailed match and player statistics across multiple se
 - Insights into batting and bowling performances.
 - Venues with the highest win percentages for teams.
 
-## Project Structure
-```
-IPL-Data-Analytics-Project/
-|
-|-- datasets/            # Contains IPL dataset files (e.g., CSV files)
-|-- notebooks/           # Jupyter notebooks with the analysis
-|-- visualizations/      # Saved plots and visualizations
-|-- scripts/             # Python scripts for data processing
-|-- README.md            # Project overview (this file)
-```
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ipl-data-analytics.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd ipl-data-analytics
-   ```
-3. Install required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## How to Use
-1. Open the Jupyter Notebook files in the `notebooks/` directory to explore analyses.
-2. Run the Python scripts in the `scripts/` directory for specific data processing or visualizations.
-3. View the saved visualizations in the `visualizations/` folder.
-
 ## Future Scope
 - Add predictive models to forecast match outcomes.
 - Expand analysis to include detailed insights on auction strategies.
@@ -70,10 +40,7 @@ IPL-Data-Analytics-Project/
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your suggested enhancements or fixes.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 ### Acknowledgments
-- The IPL dataset sourced from [source name if applicable].
+- The IPL dataset sourced from Kaggle.
 - Inspiration from the amazing world of cricket and data analytics.
